@@ -1,0 +1,15 @@
+{
+  "name": "mysolodevelopsetup",
+  "version": "1",
+  "displayName": "MySoloDevelopSetUp",
+  "description": "This is Template",
+  "unity": "6000.3.0f1",
+  "author": {
+    "name": "MiyamotoKaito",
+    "email": "kaitomiyamoto1@gmail.com",
+    "url": "https://www.notion.so/2c57e7b728bf8097bf00f56a808010e8?source=copy_link"
+  },
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json": "3.2.1"
+  }
+}
